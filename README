@@ -1,0 +1,10 @@
+Simple WMI driver for Gigabyte notebooks.
+
+Supported devices:
+
+ * T1005P/M
+ * (owners of other devices are welcome for testing)
+
+Features:
+
+ * left-side hardware button (SmartManager) support
